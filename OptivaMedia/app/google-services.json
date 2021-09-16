@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610509657578",
+    "project_id": "optivemedia-94101",
+    "storage_bucket": "optivemedia-94101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610509657578:android:ea518f9de055843dbb4e93",
+        "android_client_info": {
+          "package_name": "com.example.optivemedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610509657578-s019a9h32604r8uil2khkndk2nkhdl02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHyuRQfialwva0YeEyWthSi3ABiHAWUmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610509657578-s019a9h32604r8uil2khkndk2nkhdl02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
